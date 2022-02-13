@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 🔥 Streak Stats
-<i>Happy Coding!</i> 😊
+
 
 
 
