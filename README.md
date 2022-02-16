@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-  <img src="https://github.com/aniketsaste96/aniketsaste96/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
-
-<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
 
 
 
