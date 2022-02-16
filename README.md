@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsaste96&theme=radical&hide_border=true"/><br><br>
 
 
 
