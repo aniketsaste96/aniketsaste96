@@ -18,10 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-<p align="center">
-  <img src="https://github.com/aniketsaste96/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
 
 
 
