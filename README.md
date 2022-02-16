@@ -4,7 +4,7 @@
 <hr>
 <h1 align="center"> Hi there , I'm Aniket <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<i style="font-size:50px;">My Laptop is my best companion.We spend lots of time together<i>
+<i align="center" style="font-size:50px;">My Laptop is my best companion.We spend lots of time together<i>
 
 <!--
 **aniketsaste96/aniketsaste96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
