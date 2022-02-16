@@ -1,4 +1,7 @@
-
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
 <h1 align="center"> Hi there , I'm Aniket <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!--
