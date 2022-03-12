@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <div style="display: flex;">
     <img style="height: 50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsaste96&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsaste96&theme=radical&hide_border=true"/>
-    
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketsaste96&show_icons=true&locale=en" alt="aniketsaste96" /></p>
   </div>
 </div>
 <br><br>
