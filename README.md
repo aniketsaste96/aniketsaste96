@@ -1,5 +1,8 @@
 <h1 align="center"> Hi there , I'm Aniket <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+ 👨‍💻 Full Stack MERN Developer
+ 📚 What do I believe? Jack of all, Master of SOME.
+ 🛠️Always Learning...
+ 
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
