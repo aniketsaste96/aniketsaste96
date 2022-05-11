@@ -2,7 +2,7 @@
   👨‍💻 Full Stack MERN Developer <br/>
   📚 What do I believe? Jack of all, Master of <b>SOME</b>.<br/>
   🛠️Always Learning...
- ![Visitor Count](https://profile-counter.glitch.me/aniketsaste96/aniketsaste96/count.svg)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-aniketsaste96&label=Profile%20views&color=ce9927&style=flat" alt="aniketsaste96" /> </p>
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
