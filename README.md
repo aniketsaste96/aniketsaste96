@@ -33,7 +33,8 @@ Here are some ideas to get you started:
   </div>
 </div>
 <div align="center">
-  [![Aniket's github activity graph](https://activity-graph.herokuapp.com/graph?username=aniketsaste96)](https://github.com/aniketsaste96/aniketsaste96/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 </div>
 <br><br>
