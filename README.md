@@ -32,6 +32,10 @@ Here are some ideas to get you started:
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketsaste96&show_icons=true&locale=en" alt="aniketsaste96" /></p>
   </div>
 </div>
+<div align="center">
+  [![Aniket's github activity graph](https://activity-graph.herokuapp.com/graph?username=aniketsaste96)](https://github.com/aniketsaste96/github-readme-activity-graph)
+
+</div>
 <br><br>
 <h3>:wrench: Technologies</h3>
 
