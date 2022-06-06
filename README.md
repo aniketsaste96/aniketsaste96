@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketsaste96&show_icons=true&locale=en" alt="aniketsaste96" /></p>
   </div>
 </div>
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=aniketsaste96&bg_color=000000&color=f7f7f7&line=e82cdb&point=907f7f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br><br>
 <h3>:wrench: Technologies</h3>
 
