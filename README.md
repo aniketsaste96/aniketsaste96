@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/aniket-saste-1a577462/">
   <img align="left" alt="Aniket's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/aniketsaste96/">
+<!-- <a href="https://www.instagram.com/aniketsaste96/">
   <img align="left" alt="Aniket's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
-</a>
+</a> -->
 <a href="https://twitter.com/aniket34488197">
   <img align="left" alt="Aniket's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
 </a>
