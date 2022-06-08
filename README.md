@@ -6,10 +6,11 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-<hr>
 <div align="center">
 <img src="https://github.com/aniketsaste96/aniketsaste96/blob/main/full-stack-development.gif"/>
 </div>
+<hr>
+
 
 <!--
 **aniketsaste96/aniketsaste96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
