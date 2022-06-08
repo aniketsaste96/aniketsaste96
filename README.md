@@ -8,7 +8,7 @@
 </p>
 <hr>
 <div align="center">
-![me](https://github.com/aniketsaste96/aniketsaste96/blob/main/full-stack-development.gif)
+<img src="https://github.com/aniketsaste96/aniketsaste96/blob/main/full-stack-development.gif"/>
 </div>
 
 <!--
