@@ -8,7 +8,7 @@
 </p>
 <hr>
 
-![til]([https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png](https://github.com/aniketsaste96/aniketsaste96/blob/main/full-stack-development.gif))
+![me](https://github.com/aniketsaste96/aniketsaste96/blob/main/full-stack-development.gif)
 
 
 <!--
